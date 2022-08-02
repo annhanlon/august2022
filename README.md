@@ -19,7 +19,6 @@ This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2
 <param ve-image 
        manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
 
-# Basic usage
        
 ## Port au Prince: IIIF image "to fit"
 
