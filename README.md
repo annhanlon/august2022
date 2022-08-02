@@ -54,7 +54,7 @@ Lat/long based map - using decimal-based lat/long for Port-au-Prince
 ## Video
 
 You can also include Youtube videos by using the param ve-video code and the youtube video ID. This is a TED-Ed video called "The first and last king of Haiti," by Marlene Daut, created in 2019. This is about Henri Christophe.
-<param ve-video id="q7lfSjjMNU8" title="The first and last kind of Haiti">
+<param ve-video id="q7lfSjjMNU8" title="The first and last king of Haiti">
 
 ## Finding IIIF resources
 
