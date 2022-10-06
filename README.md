@@ -17,7 +17,7 @@
 
 This is a sample visual essay to demonstrate how to use Juncture for the CLACS 2022 Summer Workshop. The banner image features Haiti's Citadelle Laferrière, photographed from an airplane in 1920[^1]. The first image featured in this essay is also an image of Citadelle Laferrière, from 1935.
 <param ve-image 
-       manifest="https://collections.lib.uwm.edu//digital/iiif-info/agsnorth/2574/manifest.json">
+       url="https://asset.library.wisc.edu/iiif/1711.dl%2F7VKE7JT4PDTDM86/full/full/0/default.jpg">
 
        
 ## Port au Prince: IIIF image "to fit"
